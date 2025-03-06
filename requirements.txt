@@ -6,4 +6,3 @@ python-dotenv
 google-generativeai
 matplotlib
 seaborn
-pickle
